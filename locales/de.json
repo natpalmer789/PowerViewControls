@@ -1,0 +1,12 @@
+{
+  "card_title": "PowerView Steuerung",
+  "top_blind": "Obere Jalousie",
+  "bottom_blind": "Untere Jalousie",
+  "adjust": "Anpassen",
+  "open": "Öffnen",
+  "close": "Schließen",
+  "position": "Position",
+  "percentage": "Prozentsatz",
+  "error": "Fehler beim Aktualisieren der Jalousien",
+  "success": "Jalousien erfolgreich aktualisiert"
+}

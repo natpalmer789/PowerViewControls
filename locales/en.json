@@ -1,0 +1,30 @@
+{
+  "card_title": "Power View Controls",
+  "top_slider_label": "Top Position",
+  "bottom_slider_label": "Bottom Position",
+  "set_position_button": "Set Position",
+  "reset_button": "Reset",
+  "status_message": "Blinds position updated.",
+  "error_message": "Error updating blinds position.",
+  "instructions": {
+    "top": "Adjust the top slider to set the top position of the blinds.",
+    "bottom": "Adjust the bottom slider to set the bottom position of the blinds."
+  },
+  "common": {
+    "open": "Open",
+    "close": "Close",
+    "stop": "Stop"
+  },
+  "card": {
+    "entity_not_found": "Entity not found: {entity}",
+    "default_title": "PowerView Control"
+  },
+  "editor": {
+    "entity": "Entity (Required)",
+    "title": "Title (Optional)",
+    "top_position_attribute": "Top Position Attribute (Optional)",
+    "top_position_attribute_helper": "Attribute holding the top position (0-100)",
+    "bottom_position_attribute": "Bottom Position Attribute (Optional)",
+    "bottom_position_attribute_helper": "Attribute holding the bottom position (0-100)"
+  }
+}
